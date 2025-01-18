@@ -1,0 +1,29 @@
+Here's some handy setup for JupyterLab that should honestly be enabled by default:
+1. Shift + L - Enables line numbers. This is also under 'View' in the top menu bar.
+2. Under Settings, select 'Theme' and choose 'JupyterLab Dark' - your eyes will thank you.
+3. Under Settings select 'Settings Editor'. 
+4. Use the search bar and find the following settings to turn on:
+
+Code Completion: 
+[x] Show the documentation panel. 
+[x] Enable autocompletion.
+
+File Browser:
+[x] Show file size column
+[x] Use checkboxes to select items
+
+Notebook:
+[x] Notify about code execution if kernel is initializing
+[x] Highlight the active line
+[x] Automatically Start Preferred Kernel
+Input History Scope -> session
+[x] Shut down kernel
+[x] Highlight the active line
+[x] Show kernel status on toolbar or status bar.
+
+Notifications:
+Fetch official Jupyter news -> false
+
+Terminal:
+Theme -> dark
+[x] Shut down on close
